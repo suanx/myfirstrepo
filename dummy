@@ -1,0 +1,4 @@
+its an dummy file 
+i have created this branch using git checkout -b "name o branch"
+then did git switch, then pull
+again created an dummy file, editing now, and ill upload to remote repo via git push. :)
