@@ -1,0 +1,16 @@
+Hello This is sujan, i have just created an repo with name "myfirstrepo"
+
+while creating unticked README.md file
+so i got some cmd list to follow to connect remote repo from local repo
+after following im going to practice 
+git push
+git pull
+git fetch
+git stash
+git stash pop
+
+Branch creation
+creation+switch
+branch deletation
+git rebase
+also creating custom conflict and conflict resolvin
