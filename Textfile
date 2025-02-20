@@ -1,16 +1,29 @@
-Hello This is sujan, i have just created an repo with name "myfirstrepo"
+Hello, this is Sujan. I have just created a repository named "myfirstrepo".
 
-while creating unticked README.md file
-so i got some cmd list to follow to connect remote repo from local repo
-after following im going to practice 
+While creating it, I unticked the option to include a README.mdfile.
+
+Now, I need to follow some commands to connect the remote repository to the local repository. After that, I will practice the following commands:
+
 git push
+
 git pull
+
 git fetch
+
 git stash
+
 git stash pop
 
-Branch creation
-creation+switch
-branch deletation
+For branch management, I will practice:
+
+Creating a branch
+
+Creating and switching branches
+
+Deleting a branch
+
+Additionally, I will practice:
+
 git rebase
-also creating custom conflict and conflict resolvin
+
+Creating custom conflicts and resolving them.
