@@ -48,3 +48,4 @@ sudo snap install microk8s --classic
 sudo usermod -a -G microk8s $USER
 # Fix permissions
 sudo chown -f -R $USER ~/.kube
+sudo newgrp microk8s
